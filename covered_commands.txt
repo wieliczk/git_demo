@@ -10,3 +10,5 @@ git commit -- allows us to save a set of changes on a local
 machine
 (we can use git push after git commit to save changes on a git
 server)
+
+modifying the same line to try and cause a merge conflict.
