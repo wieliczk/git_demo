@@ -1,0 +1,12 @@
+git clone -- this command clones a repo onto your local machine
+git branch -- this command lets us track seperate copies of
+our code
+git push -- this command allows us to save our changes on a git
+server
+git add -- this allows us to save our new files in git
+git status -- allows us to see what current changes are 
+unstaged or not in a commit
+git commit -- allows us to save a set of changes on a local 
+machine
+(we can use git push after git commit to save changes on a git
+server)
