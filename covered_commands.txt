@@ -12,3 +12,8 @@ machine
 server)
 
 modifying the same line to try and cause a merge conflict.
+Making a change on github to the commands file!
+
+We successfully caused a merge conflict. It was fixed by 
+reading the partitioned code from our local change and the
+remote change. Then choosing which code to keep.
